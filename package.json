@@ -1,6 +1,6 @@
 {
-  "homepage": "http://ashleyu.github.io/ashleyu.github.io",
-  "name": "reactniceresume",
+  "homepage": "http://ashleyu.github.io/portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
