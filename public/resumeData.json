@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name":"Ashley Umetsu",
+    "description":"I am currently a Full Stack Developer at Verizon. I love to build fully accessible apps utilizing ReactJS",
+    "bio":"Hi, I'm Ashley! I love writing code and learning new things. I am self-motivated and work happily independently or with teammates. I am currently growing my skillset as a Full Stack Developer Apprentice at Verizon. Visit my LinkedIn or scroll down to learn more about my skills and experience and to check out some of my work!",
+    "contactmessage":"If you are interested in contacting me about development opportunities please feel free to reach out to me via email or LinkedIn. I am looking forward to hearing from you!",
+    "email": "ashley.umetsu@gmail.com",
+
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ashleyumetsu/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/AshleyU",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am currently working with and developing my skills in the following technologies:",
+    "education":[
+      {
+        "school":"Generation USA",
+        "degree":"Jr. Full Stack Developer Program",
+        "graduated":"May 2021",
+        "description":"A 16 week program which helped me to develop my skills in HTML, CSS, JavaScript and Git."
+      },
+      {
+        "school":"University of Oklahoma",
+        "degree":"International Area Studies (East Asia)",
+        "graduated":"May 2014",
+        "description":"I learned about the history, culture and politics of various East Asian countries and studied aborad in Japan for 1 year."
+      }
+    ],
+    "work":[
+      {
+        "company":"Verizon",
+        "title":"Full Stack Developer Apprentice",
+        "years":"June 2021 - Present",
+        "description":"This is a 1 year apprenticeship program where I work hands on with a development team at Verizon. I am currently developing my skills in ReactJS and Docker with my current team."
+      },
+      {
+        "company":"Presency Media (Self-Employed)",
+        "title":"Social Media Manager",
+        "years":"July 2018 - May 2021",
+        "description":"I worked together with my clients to develop their social media presence for their businesses. This helped me to develop various soft skills like communication, adaptibility and working well independently."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"Docker",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
