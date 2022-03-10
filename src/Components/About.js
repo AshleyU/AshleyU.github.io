@@ -5,21 +5,10 @@ class About extends Component {
   render() {
     if (!this.props.data) return null;
 
-    const name = this.props.data.name;
     const profilepic = "../images/profilepic.jpeg";
     const bio = this.props.data.bio;
     const email = this.props.data.email;
     const resumeDownload = this.props.data.resumedownload;
-
-    const networks = this.props.data.social.map(function (network) {
-      return (
-        <li key={network.name}>
-          <a href={network.url}>
-            <i className={network.className}></i>
-          </a>
-        </li>
-      );
-    });
 
     return (
       <section id="about">
