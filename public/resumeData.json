@@ -42,7 +42,7 @@
         "company":"Verizon",
         "title":"Full Stack Developer Apprentice",
         "years":"June 2021 - Present",
-        "description":"This is a 1 year apprenticeship program where I work hands on with a development team at Verizon. I am currently developing my skills in ReactJS and Docker with my current team."
+        "description":"I work hands on with a development team at Verizon. I am currently developing my skills in ReactJS and Docker with my current team."
       },
       {
         "company":"Presency Media (Self-Employed)",
@@ -81,76 +81,52 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Employee Directory",
+        "description":"CRUD | React |MySQL",
+        "image":"project1.png",
+        "url":"https://github.com/AshleyU/REACT-Employee-Directory"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Yearly Budget App",
+        "description":"React",
+        "image":"project2.png",
+        "url":"https://github.com/AshleyU/budget-app"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Word Guessing Game",
+        "description":"JavaScript",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":""
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Dog Selector",
+        "description":"JavaScript",
         "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":""
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Season Predictor",
+        "description":"React",
         "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":""
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Chore Tracker",
+        "description":"React",
         "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://react-chore-bot.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Toy Inventory",
+        "description":"CRUD | JavaScript | MySQL",
         "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":""
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Scoreboard",
+        "description":"React",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":""
       }
     ]
   }
