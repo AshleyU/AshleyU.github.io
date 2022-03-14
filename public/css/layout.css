@@ -439,8 +439,11 @@ ul#nav li.current a { color: #fe6928; }
 	transition: all 0.3s ease-in-out;
 }
 .portfolio-item .item-wrap a {
-   display: block;
+   display: inline-block;
    cursor: pointer;
+   text-align: center;
+   padding-bottom: 10px;
+   padding-top: 10px;
 }
 
 /* overlay */
@@ -463,7 +466,7 @@ ul#nav li.current a { color: #fe6928; }
    background: url(../images/overlay-bg.png) repeat;
 }
 .portfolio-item .item-wrap .link-icon {
-   display: block;
+   /* display: block; */
    color: #fff;
    height: 30px;
    width: 30px;
@@ -486,6 +489,7 @@ ul#nav li.current a { color: #fe6928; }
    margin-left: -15px;
    margin-top: -15px;
 }
+
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
 }

@@ -31,14 +31,12 @@ class About extends Component {
                   <p className="email">
                     <span>{email}</span>
                   </p>
-                    <a href="https://www.linkedin.com/in/ashleyumetsu/">
-                      <i className="fa fa-linkedin" style={{fontSize: '25px'}}></i>
-                    </a>
                 </div>
+                <br></br>
                 <div className="columns download">
                   <p>
-                    <a href={resumeDownload} className="button">
-                      <i className="fa fa-download"></i>Download Resume
+                    <a href="https://www.linkedin.com/in/ashleyumetsu/" target="_blank">
+                    <i className="fa fa-linkedin" style={{fontSize: '25px'}}></i>
                     </a>
                   </p>
                 </div>

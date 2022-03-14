@@ -81,16 +81,40 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Chore Tracker",
+        "description":"React | Express",
+        "image":"project4.png",
+        "url":"https://react-chore-bot.herokuapp.com/"
+      },
+      {
+        "title":"Toy Inventory",
+        "description":"Handlebars | Express",
+        "image":"project3.png",
+        "url":"https://durian-toys.herokuapp.com/warehouses"
+      },
+      {
         "title":"Employee Directory",
-        "description":"CRUD | React |MySQL",
+        "description":"ReactJS | MySQL | NodeJS",
         "image":"project1.png",
-        "url":"https://github.com/AshleyU/REACT-Employee-Directory"
+        "github":"https://github.com/AshleyU/REACT-Employee-Directory"
+      },
+      {
+        "title":"Season Predictor",
+        "description":"React",
+        "image":"05.jpg",
+        "url":""
+      },
+      {
+        "title":"Scoreboard",
+        "description":"React",
+        "image":"02.jpg",
+        "url":""
       },
       {
         "title":"Yearly Budget App",
         "description":"React",
         "image":"project2.png",
-        "url":"https://github.com/AshleyU/budget-app"
+        "github":"https://github.com/AshleyU/budget-app"
       },
       {
         "title":"Word Guessing Game",
@@ -102,30 +126,6 @@
         "title":"Dog Selector",
         "description":"JavaScript",
         "image":"04.jpg",
-        "url":""
-      },
-      {
-        "title":"Season Predictor",
-        "description":"React",
-        "image":"05.jpg",
-        "url":""
-      },
-      {
-        "title":"Chore Tracker",
-        "description":"React",
-        "image":"06.jpg",
-        "url":"https://react-chore-bot.herokuapp.com/"
-      },
-      {
-        "title":"Toy Inventory",
-        "description":"CRUD | JavaScript | MySQL",
-        "image":"01.jpg",
-        "url":""
-      },
-      {
-        "title":"Scoreboard",
-        "description":"React",
-        "image":"02.jpg",
         "url":""
       }
     ]
