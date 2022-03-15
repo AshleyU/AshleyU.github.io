@@ -490,8 +490,14 @@ ul#nav li.current a { color: #fe6928; }
    margin-top: -15px;
 }
 
+.tryItLink {
+   padding-left: 25px;
+}
+
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
+   border: 2px inset #11ABB0;
+
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {

@@ -84,48 +84,56 @@
         "title":"Chore Tracker",
         "description":"React | Express",
         "image":"project4.png",
+        "github":"https://github.com/DamonCrutchfield/code-linguists-chore-bot",
         "url":"https://react-chore-bot.herokuapp.com/"
-      },
-      {
-        "title":"Toy Inventory",
-        "description":"Handlebars | Express",
-        "image":"project3.png",
-        "url":"https://durian-toys.herokuapp.com/warehouses"
       },
       {
         "title":"Employee Directory",
         "description":"ReactJS | MySQL | NodeJS",
         "image":"project1.png",
-        "github":"https://github.com/AshleyU/REACT-Employee-Directory"
+        "github":"https://github.com/AshleyU/REACT-Employee-Directory",
+        "url": ""
       },
       {
-        "title":"Season Predictor",
-        "description":"React",
-        "image":"05.jpg",
-        "url":""
-      },
-      {
-        "title":"Scoreboard",
-        "description":"React",
-        "image":"02.jpg",
-        "url":""
+        "title":"Toy Inventory",
+        "description":"Handlebars | Express",
+        "image":"project3.png",
+        "github": "https://github.com/CrystalMorris/InventoryApp",
+        "url":"https://durian-toys.herokuapp.com/warehouses"
       },
       {
         "title":"Yearly Budget App",
         "description":"React",
         "image":"project2.png",
-        "github":"https://github.com/AshleyU/budget-app"
+        "github":"https://github.com/AshleyU/budget-app",
+        "url":"https://yearbudgetapp.herokuapp.com/"
+      },
+      {
+        "title":"Season Predictor",
+        "description":"React",
+        "image":"seasons.png",
+        "github":"https://github.com/AshleyU/REACT-SEASONS",
+        "url":"https://seasonapp.herokuapp.com/"
+      },
+      {
+        "title":"Scoreboard",
+        "description":"React",
+        "image":"scoreboard.png",
+        "github":"https://github.com/AshleyU/React-Scorboard-V2",
+        "url":"https://playerscores.herokuapp.com/"
       },
       {
         "title":"Word Guessing Game",
         "description":"JavaScript",
-        "image":"03.jpg",
+        "image":"phrasegame.png",
+        "github":"https://github.com/AshleyU/Word-Guessing-Game",
         "url":""
       },
       {
         "title":"Dog Selector",
         "description":"JavaScript",
-        "image":"04.jpg",
+        "image":"dogselector.png",
+        "github":"https://github.com/AshleyU/Dog-Selector-Fetch-API",
         "url":""
       }
     ]
