@@ -88,25 +88,11 @@
         "url":"https://react-chore-bot.herokuapp.com/"
       },
       {
-        "title":"Employee Directory",
-        "description":"ReactJS | MySQL | NodeJS",
-        "image":"project1.png",
-        "github":"https://github.com/AshleyU/REACT-Employee-Directory",
-        "url": ""
-      },
-      {
-        "title":"Toy Inventory",
-        "description":"Handlebars | Express",
-        "image":"project3.png",
-        "github": "https://github.com/CrystalMorris/InventoryApp",
-        "url":"https://durian-toys.herokuapp.com/warehouses"
-      },
-      {
-        "title":"Yearly Budget App",
+        "title":"Blog Comments",
         "description":"React",
-        "image":"project2.png",
-        "github":"https://github.com/AshleyU/budget-app",
-        "url":"https://yearbudgetapp.herokuapp.com/"
+        "image":"",
+        "github":"https://github.com/AshleyU/blog-comments-react",
+        "url":""
       },
       {
         "title":"Season Predictor",
@@ -116,6 +102,13 @@
         "url":"https://seasonapp.herokuapp.com/"
       },
       {
+        "title":"Yearly Budget App",
+        "description":"React",
+        "image":"project2.png",
+        "github":"https://github.com/AshleyU/budget-app",
+        "url":"https://yearbudgetapp.herokuapp.com/"
+      },
+      {
         "title":"Scoreboard",
         "description":"React",
         "image":"scoreboard.png",
@@ -123,18 +116,25 @@
         "url":"https://playerscores.herokuapp.com/"
       },
       {
+        "title":"Employee Directory",
+        "description":"JavaScript",
+        "image":"employees.png",
+        "github":"https://github.com/AshleyU/Employee-Directory",
+        "url":"Employee-Directory/index.html"
+      },
+      {
         "title":"Word Guessing Game",
         "description":"JavaScript",
         "image":"phrasegame.png",
         "github":"https://github.com/AshleyU/Word-Guessing-Game",
-        "url":""
+        "url":"Word-Guessing-Game/index.html"
       },
       {
         "title":"Dog Selector",
         "description":"JavaScript",
         "image":"dogselector.png",
         "github":"https://github.com/AshleyU/Dog-Selector-Fetch-API",
-        "url":""
+        "url":"Dog-Selector-Fetch-API/index.html"
       }
     ]
   }
