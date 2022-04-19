@@ -81,18 +81,18 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Toy Inventory",
+        "description":"Handlebars | Express",
+        "image":"toys.png",
+        "github":"https://github.com/AshleyU/CRUD-Employee-Directory",
+        "url":""
+      },
+      {
         "title":"Chore Tracker",
         "description":"React | Express",
         "image":"project4.png",
         "github":"https://github.com/DamonCrutchfield/code-linguists-chore-bot",
         "url":"https://react-chore-bot.herokuapp.com/"
-      },
-      {
-        "title":"Blog Comments",
-        "description":"React",
-        "image":"",
-        "github":"https://github.com/AshleyU/blog-comments-react",
-        "url":""
       },
       {
         "title":"Season Predictor",
