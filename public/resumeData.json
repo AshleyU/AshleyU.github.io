@@ -92,28 +92,28 @@
         "description":"React | Express",
         "image":"project4.png",
         "github":"https://github.com/DamonCrutchfield/code-linguists-chore-bot",
-        "url":"https://react-chore-bot.herokuapp.com/"
+        "url":""
       },
       {
         "title":"Season Predictor",
         "description":"React",
         "image":"seasons.png",
         "github":"https://github.com/AshleyU/REACT-SEASONS",
-        "url":"https://seasonapp.herokuapp.com/"
+        "url":""
       },
       {
         "title":"Yearly Budget App",
         "description":"React",
         "image":"project2.png",
         "github":"https://github.com/AshleyU/budget-app",
-        "url":"https://yearbudgetapp.herokuapp.com/"
+        "url":""
       },
       {
         "title":"Scoreboard",
         "description":"React",
         "image":"scoreboard.png",
         "github":"https://github.com/AshleyU/React-Scorboard-V2",
-        "url":"https://playerscores.herokuapp.com/"
+        "url":""
       },
       {
         "title":"Employee Directory",
